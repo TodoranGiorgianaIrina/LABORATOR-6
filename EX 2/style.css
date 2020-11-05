@@ -1,0 +1,72 @@
+body {
+  background-color: #debac9;
+}
+#catalog  {
+  text-align: center;
+background-color: pink;
+  color: white;
+}
+#etti {
+	width: 300px;
+	height: 200px;
+	border: 5px ;
+	border-radius: 8px;
+	margin: 2%;
+	opacity: 0,9;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+h1 {font-family: Arial, Helvetica, sans-serif;
+	font-size: 40px;
+color: white;}
+
+h2 {font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+color: white;}
+h5 { font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #990099}
+
+
+p {font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+  font-size: 20px;
+  color: #990099;
+}
+li {font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+  font-size: 20px;
+  color: #990099;
+}
+th {font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+  font-size: 20px;
+  color: #990099;
+}
+td {font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+  font-size: 20px;
+  color: #990099;
+}
+
+
+}
+table {
+  color: #990099;
+}
+ul {
+  color: #990099;
+}
+
+img {
+	width: 300px;
+	height: 200px;
+	border: 5px ;
+	border-radius: 10px;
+	margin: left;
+	opacity: 0,8;
+}
+
